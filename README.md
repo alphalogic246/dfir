@@ -1,3 +1,3 @@
 # dfir
 
-#Journey of a Reformed Blackhat
+Journey of a Reformed Blackhat
